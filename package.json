@@ -1,0 +1,26 @@
+{
+  "name": "training-html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "git": "git add . && git commit -m",
+    "postgit": "git push --all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InGodWeTrustt/Training-HTML-CSS.git"
+  },
+  "keywords": [
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Evgenii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InGodWeTrustt/Training-HTML-CSS/issues"
+  },
+  "homepage": "https://github.com/InGodWeTrustt/Training-HTML-CSS#readme"
+}
