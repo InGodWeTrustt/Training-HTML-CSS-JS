@@ -1,0 +1,13 @@
+:root {
+    --color-primary-light: hsl(218deg 92% 95%);
+    --color-primary-dark: hsl(237deg 65% 43%);
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 0;
+    line-height: 1.55;
+    letter-spacing: 0.03ch;
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
