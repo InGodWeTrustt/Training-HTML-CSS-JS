@@ -6,7 +6,6 @@
 body {
     display: flex;
     flex-direction: column;
-    padding: 2rem 0;
     line-height: 1.55;
     letter-spacing: 0.03ch;
     font-family: "Roboto", Arial, Helvetica, sans-serif;
